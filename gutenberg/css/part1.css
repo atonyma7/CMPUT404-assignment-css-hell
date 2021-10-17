@@ -1,0 +1,46 @@
+body {
+    background-color: #f2eecb;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+pre {
+    text-align: center;
+}
+
+ol {
+    text-align: center;
+    list-style-position: inside;
+}
+
+p {
+    text-indent: 3%;
+    font-family: 'Georgia', Georgia, serif;
+    line-height: 1.8;
+}
+
+table {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 250%;
+}
+h2 {
+    font-size: 200%;
+}
+
+h3 {
+    font-size: 150%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Garamond', Garamond, serif;
+    text-align: center;
+}

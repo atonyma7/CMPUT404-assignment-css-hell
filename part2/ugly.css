@@ -1,0 +1,62 @@
+.headercontainer{
+    padding-top: 1%;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 1%;
+    color: #ff00ff;
+    background-color: blue;
+}
+h1 {
+    font-size: 300%;
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+  }
+
+.aboutme{
+    float: left;
+    background: pink;
+}
+
+.container{
+    margin-left: 10%;
+    margin-right: 20%;
+    float: left;
+}
+
+.sidebodycontainer{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h2{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: #280137;
+}
+
+h3{
+    font-size: 140%;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: #000000;
+}
+
+h4{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: #0026ff;
+}
+
+
+p{
+    max-width: 400px;
+    word-wrap:break-word;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.sidenav {
+    background: rgb(238, 255, 0);
+    margin: 2%;
+    width: 20%; /* Set the width of the sidebar */
+    float: right;
+    text-align: center;
+  }

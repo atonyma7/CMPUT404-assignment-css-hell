@@ -1,0 +1,64 @@
+body {
+    background-color: #c7c7c7;
+}
+
+.headercontainer{
+    padding-top: 1%;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 1%;
+    color: #c4bdcc;
+    background-image: linear-gradient(#3f0483, #280137);
+}
+h1{
+    font-size: 300%;
+    font-family: "Century Gothic", CenturyGothic, sans-serif;
+}
+
+.aboutme{
+    float: left;
+}
+
+.container{
+    margin-left: 10%;
+    margin-right: 20%;
+    float: left;
+}
+
+.sidebodycontainer{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h2{
+    font-family: "Century Gothic", CenturyGothic, sans-serif;
+    color: #280137;
+}
+
+h3{
+    font-size: 140%;
+    font-family: "Century Gothic", CenturyGothic, sans-serif;
+    color: #363d2d;
+}
+
+h4{
+    font-family: "Century Gothic", CenturyGothic, sans-serif;
+    color: #73AD21;
+}
+
+
+p{
+    max-width: 400px;
+    word-wrap:break-word;
+    font-family: "Avantgarde", Avantgarde, sans-serif;
+}
+
+.sidenav {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    background: cornsilk;
+    margin: 2%;
+    width: 20%; /* Set the width of the sidebar */
+    float: right;
+    text-align: center;
+  }
