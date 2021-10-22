@@ -1,5 +1,6 @@
 Assignment: CSS Hell
 ====================
+
 I removed style tags from the gutenberg html files and added a stylesheet link to my css file within the head tag.
 ====================
 
